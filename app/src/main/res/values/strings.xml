@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practica 2 - WSVolley</string>
+    <string name="lblTitle">COVID-19 por País</string>
+    <string name="lblCountry">País:</string>
+    <string name="btnConsult">Consultar</string>
+    <!-- Home Activity -->
+    <string name="lblCountrySelected">País elegido: -</string>
+    <string name="lblLastUpdate">Última actualización: -</string>
+    <string name="lblConfirmed">Casos confirmados: -</string>
+    <string name="lblRecovered">Recuperados: -</string>
+    <string name="lblDeaths">Muertos: -</string>
+</resources>
